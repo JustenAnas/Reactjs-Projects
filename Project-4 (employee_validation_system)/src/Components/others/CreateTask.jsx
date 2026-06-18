@@ -26,7 +26,7 @@ const CreateTask = () => {
         }
 
         const updatedData = userData.map((emp) => {
-            if (emp.firstName === assignTo) {
+            if (emp.name === assignTo) {
                 return {
                     ...emp,
                     tasks: [...emp.tasks, newTask],
