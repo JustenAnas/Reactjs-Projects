@@ -1,6 +1,6 @@
 import Image from "./Image"
 import Number from "./Number"
-import Score from "./score"
+import Score from "./Score"
  
 const Page = () => {
   return (
