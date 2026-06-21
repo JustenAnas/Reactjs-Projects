@@ -10,24 +10,26 @@ This repository showcases my experiments, mini-apps, and full-fledged React proj
 ### 1. Dice Game with React
 - Roll the dice and battle it out! This interactive **two-player dice game** tests your luck and strategy.  
 - Built with React state management and dynamic UI logic.  
-- **Run locally:** `npm run dev`
+- **Live Demo:** https://dicegame-omega-puce.vercel.app/ 
 
 ### 2. GTA6 Website
 - A futuristic web experience inspired by **GTA6** — sleek animations, interactive elements, and visual flair.  
 - Built with **React**, **GSAP**, **Vite**, and **Tailwind CSS**.  
-- **Live demo:** [GTA6 Website](https://your-demo-link.netlify.app/)
+- **Live demo:**  https://gta6website.vercel.app/
 
 ### 3. Branding Page with React
 - A polished branding page template for products or companies.  
 - Features **reusable components**, smooth CSS animations, and modern layouts to make your brand pop.  
-
+- **Live demo:** https://bbrandingpage.vercel.app/
 ### 4. Employee Validation System
 - A mini **CRUD-style application** to manage and validate employee data.  
 - Learnings include form validations, dynamic rendering, and clean component structure.  
+- **Live demo:**  https://employeevalidationsystem.vercel.app/
 
 ### 5. Image Enhancer
 - Upload, view, and enhance images with ease.  
 - Demonstrates basic image manipulation and responsive UI.  
+- **Live demo:**  https://image-inhancer.vercel.app/
 
  
 
