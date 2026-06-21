@@ -1,4 +1,4 @@
- ### Project 3 - Dice Game
+ ### Project 1 - Dice Game
 A simple interactive dice game built with React.
 
 #### Features:
