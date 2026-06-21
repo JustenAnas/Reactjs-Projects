@@ -1,4 +1,4 @@
- ### Project 6 - Employee Validation System
+ ### Project 4 - Employee Validation System
 
 A role-based employee management and task tracking application built with React. The system provides separate dashboards for administrators and employees with authentication and task management features.
 
