@@ -1,16 +1,45 @@
-# React + Vite
+ ### Project 6 - Employee Validation System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A role-based employee management and task tracking application built with React. The system provides separate dashboards for administrators and employees with authentication and task management features.
 
-Currently, two official plugins are available:
+#### Demo Credentials
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Admin Login**
 
-## React Compiler
+* Email: `admin@me.com`
+* Password: `123`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Employee Login**
 
-## Expanding the ESLint configuration
+* Email: `employee1@company.com`
+* Password: `123`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You can also log in using:
+
+* `employee2@company.com`
+* `employee3@company.com`
+* `employee4@company.com`
+* `employee5@company.com`
+
+(All employee accounts use password: `123`)
+
+#### Features
+
+* Role-based authentication
+* Separate Admin and Employee dashboards
+* Employee task management
+* Task status tracking
+* Active, New, Completed, and Failed task categories
+* Dynamic task assignment
+* LocalStorage-based data persistence
+* Responsive user interface
+* Real-time task statistics display
+
+#### Tech Stack
+
+* React
+* JavaScript
+* CSS
+* LocalStorage
+
+### To view - https://employeevalidationsystem.vercel.app/
