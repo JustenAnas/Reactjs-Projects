@@ -21,6 +21,7 @@ This repository showcases my experiments, mini-apps, and full-fledged React proj
 - A polished branding page template for products or companies.  
 - Features **reusable components**, smooth CSS animations, and modern layouts to make your brand pop.  
 - **Live demo:** https://bbrandingpage.vercel.app/
+
 ### 4. Employee Validation System
 - A mini **CRUD-style application** to manage and validate employee data.  
 - Learnings include form validations, dynamic rendering, and clean component structure.  
@@ -31,6 +32,10 @@ This repository showcases my experiments, mini-apps, and full-fledged React proj
 - Demonstrates basic image manipulation and responsive UI.  
 - **Live demo:**  https://image-inhancer.vercel.app/
 
+### 6. Thirtysix Studio
+- thirtysix studio clone.
+- it uses gsap and stunning animation with it
+- **Live demo:** https://thirtysixstudio-roan.vercel.app/
  
 
 ---
